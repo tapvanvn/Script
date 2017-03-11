@@ -1,0 +1,1 @@
+can we build some script that help anyone?
