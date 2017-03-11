@@ -1,3 +1,4 @@
 ﻿. ".\Modules\Get-ListeningTCPConnections.ps1"
 
-Get-ListeningTCPConnections 
+$output = Get-ListeningTCPConnections 
+$output
