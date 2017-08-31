@@ -10,3 +10,4 @@ Each script folder should have a Modules folder to hold scripts which run as a m
 All folder named "private" use to place individual config files for each terminal. User can place it everywhere they want.
 
 
+All folder named "Config" use to hold the configure files that are used by scripts.
